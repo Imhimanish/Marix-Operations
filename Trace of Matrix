@@ -1,0 +1,8 @@
+**Trace of Matrix :**
+**To prove Tr(AB) = Tr(BA) :**
+
+The trace of a matrix is the sum of the diagonal elements. 
+Let A be a K x K matrix. Then, its trace, denoted by trace(A) or tr(A), is the sum of its diagonal entries:
+tr(A) = ∑
+k
+k=1 =Akk
