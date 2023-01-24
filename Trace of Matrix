@@ -6,3 +6,4 @@ Let A be a K x K matrix. Then, its trace, denoted by trace(A) or tr(A), is the s
 tr(A) = ∑
 k
 k=1 =Akk
+
