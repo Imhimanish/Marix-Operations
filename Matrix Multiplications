@@ -1,0 +1,7 @@
+To multiply Matrix A and B :-
+
+Multiplication of two Matrices A and B is done in the following manner
+If A=[aij] is an m×n matrix and B=[bij] is an n×p matrix, the product AB is an m×p
+matrix. 
+AB=[cij] , where cij = ai1b1j+ai2b2j+...+ainbnj .
+
